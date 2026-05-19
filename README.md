@@ -216,35 +216,6 @@ dist\磁盘清理_v4.2_CMD.exe
 pip install pyinstaller
 ```
 
----
-
-## 📌 GitHub 上传建议
-
-建议上传：
-
-```text
-disk_cleaner_core_v42.py
-disk_cleaner_v4_gui.py
-disk_cleaner_v4_cmd.py
-*.bat
-cs_logo.ico
-README.md
-LICENSE
-.gitignore
-```
-
-不建议上传：
-
-```text
-dist/
-build/
-__pycache__/
-*.spec
-*.pyc
-```
-
----
-
 ## 📜 License
 
 MIT License
